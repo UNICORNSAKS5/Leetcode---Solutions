@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -38,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0222-count-complete-tree-nodes) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
