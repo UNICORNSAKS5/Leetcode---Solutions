@@ -71,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
