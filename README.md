@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0449-serialize-and-deserialize-bst](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Hash Table
 |  |
 | ------- |
