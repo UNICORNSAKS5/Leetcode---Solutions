@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0968-binary-tree-cameras](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0968-binary-tree-cameras) |
 ## Backtracking
 |  |
 | ------- |
