@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0337-house-robber-iii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0200-number-of-islands) |
 | [0449-serialize-and-deserialize-bst](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -169,4 +171,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0257-binary-tree-paths) |
+## Array
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/UNICORNSAKS5/Leetcode---Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
